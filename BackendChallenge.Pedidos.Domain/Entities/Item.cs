@@ -16,6 +16,7 @@ namespace BackendChallenge.Pedidos.Domain.Entities
         public string Produto { get; private set; }
         public decimal Preco { get; private set; }
         public int Quantidade { get; private set; }
+        public decimal Total { get { return (Preco * Quantidade); } }
         public Pedido Pedido { get; set; }
 
         public override bool IsValid { get { return Validar(); } protected set { } }

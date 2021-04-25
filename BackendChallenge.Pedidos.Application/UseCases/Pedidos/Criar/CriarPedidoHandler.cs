@@ -22,7 +22,6 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar
         }
 
         private bool disposedValue = false;
-
         protected virtual void Dispose(bool disposing)
         {
             if (!disposedValue)
@@ -31,10 +30,6 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar
                 pedidoRepository.Dispose();
             }
         }
-
-        public void Dispose()
-        {
-            Dispose(true);
-        }
+        public void Dispose() => Dispose(true);
     }
 }

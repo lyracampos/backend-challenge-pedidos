@@ -13,6 +13,8 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos
         }
         public int Numero { get; set; }
         public IList<ItemResult> Itens { get; set; }
+        public int TotalDeItens { get { return Itens != null ? Itens.Count : 0; } }
+        public decimal ValorTotal { get { return Itens != null ? Itens.Sum(p => p.Total) : 0; } }
     }
 
     public class ItemResult
@@ -26,6 +28,7 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos
 
         public string Produto { get; set; }
         public decimal Preco { get; set; }
-        public int Quantidade { get; set; }        
+        public int Quantidade { get; set; }
+        public decimal Total { get { return (Preco * Quantidade); } }
     }
 }

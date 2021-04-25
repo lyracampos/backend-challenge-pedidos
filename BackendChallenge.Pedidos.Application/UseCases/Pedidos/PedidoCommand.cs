@@ -8,7 +8,8 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos
     {
         public IList<ItemCommand> Itens { get; set; }
 
-        public Pedido MapEntity() => new Pedido(Itens.Select(p => p.MapEntity()).ToList());
+        public Pedido MapEntity() => new Pedido(MapItens());
+        private List<Item> MapItens() => Itens.Select(p => p.MapEntity()).ToList();
     }
 
     public class ItemCommand

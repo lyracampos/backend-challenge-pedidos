@@ -18,7 +18,8 @@ namespace BackendChallenge.Pedidos.Domain.Entities
 
         public virtual ICollection<Item> Itens { get; set; }
 
-        public int TotalItens { get { return Itens != null ? Itens.Count : 0; } }
+        public int TotalDeItens { get { return Itens != null ? Itens.Count : 0; } }
+        public decimal ValorTotal { get { return Itens != null ? Itens.Sum(p => p.Total) : 0; } }
         public void AdicionarItem(Item item)
         {
             if (item.IsValid)
@@ -33,7 +34,7 @@ namespace BackendChallenge.Pedidos.Domain.Entities
         public void Atualizar(Pedido pedido)
         {
             base.Atualizar();
-            if (TotalItens > 0)
+            if (TotalDeItens > 0)
             {
                 Itens = null;
                 Itens = pedido.Itens;

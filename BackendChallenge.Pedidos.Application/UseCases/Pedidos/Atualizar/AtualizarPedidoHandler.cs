@@ -28,20 +28,14 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar
         }
 
         private bool disposedValue = false;
-
         protected virtual void Dispose(bool disposing)
         {
             if (!disposedValue)
             {
                 disposedValue = true;
+                pedidoRepository.Dispose();
             }
         }
-
-        public void Dispose()
-        {
-            Dispose(true);
-        }
-
-       
+        public void Dispose() => Dispose(true);
     }
 }

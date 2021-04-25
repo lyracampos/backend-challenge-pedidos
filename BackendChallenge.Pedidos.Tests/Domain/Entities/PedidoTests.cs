@@ -8,22 +8,22 @@ namespace BackendChallenge.Pedidos.Tests.Domain.Entities
         public void AdicionarItemValidoAoPedido()
         {
             var pedido = new Pedido();
-            var quantidadeInicial = pedido.TotalItens;
+            var quantidadeInicial = pedido.TotalDeItens;
 
             pedido.AdicionarItem(ItemMock.ItemValido());
 
-            Assert.True(quantidadeInicial < pedido.TotalItens);
+            Assert.True(quantidadeInicial < pedido.TotalDeItens);
         }
 
         [Fact]
         public void NaoAdicionarItemInvalidoAoPedido()
         {
             var pedido = new Pedido();
-            var quantidadeInicial = pedido.TotalItens;
+            var quantidadeInicial = pedido.TotalDeItens;
 
             pedido.AdicionarItem(ItemMock.ItemInvalido());
 
-            Assert.True(quantidadeInicial == pedido.TotalItens);
+            Assert.True(quantidadeInicial == pedido.TotalDeItens);
         }
 
         [Fact]
@@ -36,7 +36,7 @@ namespace BackendChallenge.Pedidos.Tests.Domain.Entities
 
             pedido.RemoverItem(item.Produto);
 
-            Assert.True(quantidadeInicial > pedido.TotalItens);
+            Assert.True(quantidadeInicial > pedido.TotalDeItens);
         }
     }
 }
