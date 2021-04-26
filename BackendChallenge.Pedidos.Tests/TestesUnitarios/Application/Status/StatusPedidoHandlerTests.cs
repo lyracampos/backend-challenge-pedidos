@@ -26,7 +26,6 @@ namespace BackendChallenge.Pedidos.Tests.TestesUnitarios.Application.Status
         {
             // arrange
             var command = new StatusPedidoCommand{ ItensAprovados = 3, Pedido = 1, Status = StatusPedidoType.APROVADO.ToString(), ValorAprovado = 30 };
-
             Pedido pedidoDb = null;
             pedidoRepository.Setup(p => p.BuscarAsync(1)).ReturnsAsync(pedidoDb);
 
@@ -42,7 +41,6 @@ namespace BackendChallenge.Pedidos.Tests.TestesUnitarios.Application.Status
         {
             // arrange
             var command = new StatusPedidoCommand { ItensAprovados = 3, Pedido = 1, Status = StatusPedidoType.REPROVADO.ToString(), ValorAprovado = 30 };
-
             var pedidoDb = new Pedido();
             pedidoDb.AdicionarItem(ItemMock.ItemValido());
             pedidoDb.AdicionarItem(ItemMock.ItemValido());

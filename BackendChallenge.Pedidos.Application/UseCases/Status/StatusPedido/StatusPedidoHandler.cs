@@ -45,9 +45,11 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido
             return valoresDeStatusDoPedido.Where(p => p.Value == true).Select(p => p.Key.ToString()).ToArray();
         }
 
-        private bool SePedidoInvalido() => !this.pedidoExisteNoBanco;
+        private bool SePedidoInvalido() =>
+            !this.pedidoExisteNoBanco;
 
-        private bool SePedidoReprovado() => this.pedidoExisteNoBanco && this.command.Status == StatusPedidoType.REPROVADO.ToString();
+        private bool SePedidoReprovado() =>
+            this.pedidoExisteNoBanco && this.command.Status == StatusPedidoType.REPROVADO.ToString();
 
         private bool SePedidoAprovado() =>
             this.pedidoExisteNoBanco && this.command.ItensAprovados == this.pedido.TotalDeItens &&
@@ -63,7 +65,6 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido
             pedidoExisteNoBanco &&
             this.command.ItensAprovados < this.pedido.TotalDeItens &&
             this.command.Status == StatusPedidoType.APROVADO.ToString();
-
 
         private bool SePedidoAprovadoValorMaior() =>
             pedidoExisteNoBanco &&

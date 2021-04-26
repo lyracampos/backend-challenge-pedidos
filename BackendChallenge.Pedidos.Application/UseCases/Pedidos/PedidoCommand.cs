@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using BackendChallenge.Pedidos.Domain.Entities;
+using BackendChallenge.Pedidos.Domain.ValueObjects;
 
 namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos
 {
@@ -18,13 +19,8 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos
         public decimal ValorTotal { get { return Itens != null ? Itens.Sum(p => p.Total) : 0; } }
     }
 
-    public class ItemCommand
+    public class ItemCommand : ItemValueObject
     {
-        public string Produto { get; set; }
-        public decimal Preco { get; set; }
-        public int Quantidade { get; set; }
-        public decimal Total { get { return (Preco * Quantidade); } }
-
         public Item MapEntity() => new Item(Produto, Preco, Quantidade);
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using BackendChallenge.Pedidos.Domain.Entities;
+using BackendChallenge.Pedidos.Domain.ValueObjects;
 
 namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos
 {
@@ -9,7 +10,7 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos
         public PedidoResult(Pedido pedido)
         {
             Numero = pedido.Id;
-            Itens = pedido.Itens.Select(p => new ItemResult(p.Produto, p.Preco, p.Quantidade)).ToList();
+            Itens = pedido.Itens?.Select(p => new ItemResult(p.Produto, p.Preco, p.Quantidade)).ToList();
         }
         public int Numero { get; set; }
         public IList<ItemResult> Itens { get; set; }
@@ -17,18 +18,9 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos
         public decimal ValorTotal { get { return Itens != null ? Itens.Sum(p => p.Total) : 0; } }
     }
 
-    public class ItemResult
+    public class ItemResult : ItemValueObject
     {
         public ItemResult(string produto, decimal preco, int quantidade)
-        {
-            Produto = produto;
-            Preco = preco;
-            Quantidade = quantidade;
-        }
-
-        public string Produto { get; set; }
-        public decimal Preco { get; set; }
-        public int Quantidade { get; set; }
-        public decimal Total { get { return (Preco * Quantidade); } }
+            : base(produto, preco, quantidade) { }
     }
 }

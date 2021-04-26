@@ -1,4 +1,6 @@
 ﻿using BackendChallenge.Pedidos.Domain.Validations;
+using BackendChallenge.Pedidos.Domain.ValueObjects;
+
 namespace BackendChallenge.Pedidos.Domain.Entities
 {
     public class Item : Entidade
@@ -13,6 +15,7 @@ namespace BackendChallenge.Pedidos.Domain.Entities
             Preco = preco;
             Quantidade = quantidade;
         }
+      
         public string Produto { get; private set; }
         public decimal Preco { get; private set; }
         public int Quantidade { get; private set; }
