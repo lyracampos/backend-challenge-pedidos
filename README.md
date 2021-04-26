@@ -4,7 +4,11 @@ Api escrita em c# com .net5.0. Usei este case para colocar em prática padrões 
 
 ## quick start
 ### rodando com docker
-a imagem está disponível [nesse](https://hub.docker.com/r/guilhermelyracampos/backendchallenge-pedidos "nesse") repositório do dockerhub.
+a imagem está disponível [nesse](https://hub.docker.com/r/guilhermelyracampos/backendchallenge-pedidos "nesse") repositório do dockerhub. Execute a imagem com o comando abaixo:
+```
+docker run -d -p 8090:80 --name pedidos guilhermelyracampos/backendchallenge-pedidos:latest
+```
+
 
 ### rodando local
 clone este repositório e abra a solution no visual studio 2019, ou execute os comandos abaixo:
