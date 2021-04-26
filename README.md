@@ -22,5 +22,5 @@ Para executar os testes via linha de comando, execute os passos abaixo na pasta 
 cd BackendChallenge.Pedidos.Tests
 dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=Cobertura
 ```
-A cobertura de testes:
+A cobertura de testes:<br/>
 [![](https://gui-primeiro-bucket.s3.us-east-2.amazonaws.com/testes.png)](https://gui-primeiro-bucket.s3.us-east-2.amazonaws.com/testes.png)
