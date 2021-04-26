@@ -3,10 +3,10 @@ Api para processamento de pedido e controle de seus status. <br/>
 Api escrita em c# com .net5.0. Usei este case para colocar em prática padrões de clean architecture, clean code, solid, ddd, api restful.
 
 ## quick start
-### rodando api com docker
+### rodando com docker
 a imagem está disponível [nesse](https://hub.docker.com/r/guilhermelyracampos/backendchallenge-pedidos "nesse") repositório do dockerhub.
 
-### usando a api
+### rodando local
 clone este repositório e abra a solution no visual studio 2019, ou execute os comandos abaixo:
 ```
 cd BackendChallenge.Pedidos.Api
