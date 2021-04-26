@@ -1,0 +1,59 @@
+
+qBackendChallenge.Pedidos.Infrastructure.PedidoContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs  (/"0*ý
+0™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (!€ý
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (6P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()Ï
+Ì
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (6T
+pedidoJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"__id*R
+P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>¡ž
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs ($@
+%1:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"“Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*V
+T
+pedidoJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)ÎË
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs ((j
+%2dMicrosoft.EntityFrameworkCore.Metadata.Builders.CollectionNavigationBuilder<TEntity, TRelatedEntity>"ÔMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasMany<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, System.Collections.Generic.IEnumerable<TRelatedEntity>>>)*V
+T
+pedidoJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2‰HasMany<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, System.Collections.Generic.IEnumerable<TRelatedEntity>>>)—”
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (?t
+%3nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>"¶Microsoft.EntityFrameworkCore.Metadata.Builders.CollectionNavigationBuilder<TEntity, TRelatedEntity>.WithOne(System.Linq.Expressions.Expression<System.Func<TRelatedEntity, TEntity>>)*l
+j
+%2dMicrosoft.EntityFrameworkCore.Metadata.Builders.CollectionNavigationBuilder<TEntity, TRelatedEntity>*
+""2QWithOne(System.Linq.Expressions.Expression<System.Func<TRelatedEntity, TEntity>>)€ý
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (2P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()Í
+Ê
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (2R
+itemJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"__id*R
+P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>Ÿœ
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs ("@
+%5:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"“Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*T
+R
+itemJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*
+1*Ó
+1™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs	 (	"±
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB97
+5BackendChallenge.Pedidos.Infrastructure.PedidoContext

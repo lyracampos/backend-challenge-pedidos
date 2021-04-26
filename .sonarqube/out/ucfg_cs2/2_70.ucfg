@@ -1,0 +1,83 @@
+
+wBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.SePedidoAprovadoQuantidadeMaior()π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csI I(4"0*ù
+0π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csJ J(”
+–
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csJ J(
+%0"__id*
+""*
+1
+2*é
+1π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csK K(BÕ
+ 
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csK K(N
+%1HBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand"aBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.command.get*YW
+UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler˘
+ˆ
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csK K('	
+%2int"[BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand.ItensAprovados.get*P
+N
+%1HBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand≥
+∞
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csK* K(55
+%3/BackendChallenge.Pedidos.Domain.Entities.Pedido"`BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.pedido.get*YW
+UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler≈
+¬
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csK* K(B	
+%4int"@BackendChallenge.Pedidos.Domain.Entities.Pedido.TotalDeItens.get*7
+5
+%3/BackendChallenge.Pedidos.Domain.Entities.Pedido*
+2*«
+2π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csLH L(H*
+3
+4*˚
+3π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csL L(GÕ
+ 
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csL L(N
+%5HBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand"aBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.command.get*YW
+UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandlerÙ
+Ò
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csL L(
+%6string"SBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand.Status.get*P
+N
+%5HBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand”
+–
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csL# L(<
+%7"__id*
+""˘ˆ
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csL# L(G
+%8string"System.Enum.ToString()*
+
+%72
+ToString()õ
+ò
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csL L(G
+
+%9bool""string.operator ==(string, string)*
+"
+string*
+
+%6string*
+
+%8string*
+4*ì
+4π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csLH L(H"—
+π
+Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csLG L(H
+implicit returnBYW
+UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler

@@ -1,0 +1,22 @@
+
+zBackendChallenge.Pedidos.Infrastructure.PedidoContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs  (-"0*¥
+0™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (Oþ
+û
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (P;
+%05Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"ðMicrosoft.EntityFrameworkCore.InMemoryDbContextOptionsExtensions.UseInMemoryDatabase(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder, string, System.Action<Microsoft.EntityFrameworkCore.Infrastructure.InMemoryDbContextOptionsBuilder>)*D"B
+@Microsoft.EntityFrameworkCore.InMemoryDbContextOptionsExtensions*I
+G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*
+BackendChallenge*
+""*
+1*Ó
+1™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs	 (	"±
+™
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/PedidoContext.cs (	
+implicit return:G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderB97
+5BackendChallenge.Pedidos.Infrastructure.PedidoContext

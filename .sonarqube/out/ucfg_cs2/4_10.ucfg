@@ -1,0 +1,84 @@
+
+€BackendChallenge.Pedidos.Api.Controllers.PedidoController.CriarPedido(BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand, BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.ICriarPedidoHandler)ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs) (4"4*´
+0ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs)	 )(	*
+1
+2*À
+1ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs" #(D¯ı
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs"# "(A*
+%0$System.Threading.Tasks.Task<TResult>"¢BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.ICriarPedidoHandler.ExecutarAsync(BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand)*\
+Z
+handlerOBackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.ICriarPedidoHandler*P
+N
+commandCBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand2RExecutarAsync(BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand)ˇ
+¸
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs" "(AL
+pedidoBBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult"__id*
+""Õ
+ 
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs#- #(:	
+%1int"MBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.Numero.get*N
+L
+pedidoBBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResultÕ
+ 
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs# #(<	
+%2int"__concat*
+""*
+	
+%1intµ≤
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs# #(E,
+%3&Microsoft.AspNetCore.Mvc.CreatedResult"?Microsoft.AspNetCore.Mvc.ControllerBase.Created(string, object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+	
+%2int*N
+L
+pedidoBBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult2Created(string, object)"–
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs# #(F.
+,
+%3&Microsoft.AspNetCore.Mvc.CreatedResult*ﬂ
+2ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs' '(1ˆÛ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs'' '(1
+%4string"System.Exception.Message.get*
+
+exSystem.Exception2Message.getÓÎ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs' '(2+
+%5%Microsoft.AspNetCore.Mvc.ObjectResult"?Microsoft.AspNetCore.Mvc.ControllerBase.StatusCode(int, object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*2Ù*
+
+%4string2StatusCode(int, object)"œ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs' '(3-
++
+%5%Microsoft.AspNetCore.Mvc.ObjectResult*€
+3ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs)	 )(	"µ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs) )(	
+implicit return*ò
+4ü
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csÇ (Ç±
+Æ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs) (4~
+N
+commandCBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand",
+Itens#System.Collections.Generic.IList<T>"__entrypoint∑
+¥
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs) (4
+%6"__entrypoint*
+0:N
+commandCBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand:Z
+handlerOBackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.ICriarPedidoHandlerB=;
+9BackendChallenge.Pedidos.Api.Controllers.PedidoController

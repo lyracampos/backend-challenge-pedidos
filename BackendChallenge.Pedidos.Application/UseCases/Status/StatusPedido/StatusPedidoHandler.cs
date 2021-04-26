@@ -23,7 +23,7 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido
             this.command = command;
 
             this.pedido = await pedidoRepository.BuscarAsync(command.Pedido);
-
+            this.pedidoExisteNoBanco = pedido != null;
             var verificarStatus = RetornarStatusDoPedido();
 
             return new StatusPedidoResult() { Pedido = command.Pedido, Status = verificarStatus };

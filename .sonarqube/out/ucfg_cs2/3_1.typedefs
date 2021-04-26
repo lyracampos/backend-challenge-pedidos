@@ -1,0 +1,10 @@
+«	
+EBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepositoryobjectŸ
+GPedidoRepository(BackendChallenge.Pedidos.Infrastructure.PedidoContext)çBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.PedidoRepository(BackendChallenge.Pedidos.Infrastructure.PedidoContext)…
+?AdicionarAsync(BackendChallenge.Pedidos.Domain.Entities.Pedido)ÖBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.AdicionarAsync(BackendChallenge.Pedidos.Domain.Entities.Pedido)…
+?AtualizarAsync(BackendChallenge.Pedidos.Domain.Entities.Pedido)ÖBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.AtualizarAsync(BackendChallenge.Pedidos.Domain.Entities.Pedido)j
+BuscarAsync(int)VBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.BuscarAsync(int)d
+ListarAsync()SBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.ListarAsync()l
+RemoverAsync(int)WBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.RemoverAsync(int)d
+Dispose(bool)SBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.Dispose(bool)\
+	Dispose()OBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.Dispose()

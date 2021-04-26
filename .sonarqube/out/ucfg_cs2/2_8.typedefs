@@ -1,0 +1,13 @@
+ù
+BBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResultobject¬
+=PedidoResult(BackendChallenge.Pedidos.Domain.Entities.Pedido)ÄBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.PedidoResult(BackendChallenge.Pedidos.Domain.Entities.Pedido)[
+
+Numero.getMBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.Numero.get[
+
+Numero.setMBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.Numero.setY
+	Itens.getLBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.Itens.getY
+	Itens.setLBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.Itens.setg
+TotalDeItens.getSBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.TotalDeItens.getg
+TotalDeItens.setSBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.TotalDeItens.setc
+ValorTotal.getQBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.ValorTotal.getc
+ValorTotal.setQBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult.ValorTotal.set

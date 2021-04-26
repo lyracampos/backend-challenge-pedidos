@@ -1,0 +1,18 @@
+¯
+¥/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/Exceptions/PedidoNaoEncontradoException.csutf-8¦
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/Repositories/IPedidoRepository.csutf-8˜
+Ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Command.csutf-8¹
+¯/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/Atualizar/AtualizarPedidoHandler.csutf-8º
+°/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/Atualizar/IAtualizarPedidoHandler.csutf-8±
+§/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/Criar/CriarPedidoHandler.csutf-8²
+¨/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/Criar/ICriarPedidoHandler.csutf-8¦
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.csutf-8¥
+›/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.csutf-8¶
+¬/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/Remover/IRemoverPedidoHandler.csutf-8µ
+«/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/Remover/RemoverPedidoHandler.csutf-8¹
+¯/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/IStatusPedidoHandler.csutf-8¸
+®/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csutf-8«
+¡/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedidoCommand.csutf-8ª
+ /Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedidoResult.csutf-8Æ
+º/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8Ì
+À/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/obj/Debug/net5.0/BackendChallenge.Pedidos.Application.AssemblyInfo.csutf-8

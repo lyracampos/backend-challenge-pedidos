@@ -1,0 +1,1100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.8273999999999999" branch-rate="0.6785" version="1.9" timestamp="1619407476" lines-covered="187" lines-valid="226" branches-covered="38" branches-valid="56">
+  <sources>
+    <source>/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/</source>
+  </sources>
+  <packages>
+    <package name="BackendChallenge.Pedidos.Application" line-rate="0.7681999999999999" branch-rate="0.6818000000000001" complexity="82">
+      <classes>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand" filename="BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedidoCommand.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_Status" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="21" branch="False" />
+              </lines>
+            </method>
+            <method name="get_ItensAprovados" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="25" branch="False" />
+              </lines>
+            </method>
+            <method name="get_ValorAprovado" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="22" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Pedido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="21" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="21" branch="False" />
+            <line number="10" hits="25" branch="False" />
+            <line number="13" hits="22" branch="False" />
+            <line number="16" hits="21" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResult" filename="BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedidoResult.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Pedido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Status" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="14" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="7" branch="False" />
+            <line number="6" hits="14" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler" filename="BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs" line-rate="0.8409" branch-rate="0.9229999999999999" complexity="32">
+          <methods>
+            <method name="get_pedido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="47" branch="False" />
+              </lines>
+            </method>
+            <method name="get_command" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="54" branch="False" />
+              </lines>
+            </method>
+            <method name="RetornarStatusDoPedido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="7" branch="False" />
+                <line number="34" hits="7" branch="False" />
+                <line number="35" hits="7" branch="False" />
+                <line number="36" hits="7" branch="False" />
+                <line number="37" hits="7" branch="False" />
+                <line number="38" hits="7" branch="False" />
+                <line number="39" hits="7" branch="False" />
+                <line number="40" hits="7" branch="False" />
+                <line number="41" hits="7" branch="False" />
+                <line number="42" hits="7" branch="False" />
+                <line number="43" hits="7" branch="False" />
+                <line number="45" hits="64" branch="False" />
+                <line number="46" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="SePedidoInvalido" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="48" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="SePedidoReprovado" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="50" hits="7" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="6" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+            <method name="SePedidoAprovado" signature="()" line-rate="1" branch-rate="1" complexity="6">
+              <lines>
+                <line number="53" hits="7" branch="True" condition-coverage="100% (6/6)">
+                  <conditions>
+                    <condition number="6" type="jump" coverage="100%" />
+                    <condition number="30" type="jump" coverage="100%" />
+                    <condition number="59" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="54" hits="7" branch="False" />
+                <line number="55" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="SePedidoAprovadoValorMenor" signature="()" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="58" hits="7" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="6" type="jump" coverage="100%" />
+                    <condition number="35" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="59" hits="7" branch="False" />
+                <line number="60" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="SePedidoAprovadoQuantidadeMenor" signature="()" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="63" hits="7" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="6" type="jump" coverage="100%" />
+                    <condition number="30" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="64" hits="7" branch="False" />
+                <line number="65" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="SePedidoAprovadoValorMaior" signature="()" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="69" hits="7" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="6" type="jump" coverage="100%" />
+                    <condition number="35" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="70" hits="7" branch="False" />
+                <line number="71" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="SePedidoAprovadoQuantidadeMaior" signature="()" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="74" hits="7" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="6" type="jump" coverage="100%" />
+                    <condition number="30" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="75" hits="7" branch="False" />
+                <line number="76" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="(System.Boolean)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="80" hits="0" branch="False" />
+                <line number="81" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="12" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="82" hits="0" branch="False" />
+                <line number="83" hits="0" branch="False" />
+                <line number="84" hits="0" branch="False" />
+                <line number="85" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="86" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="7" branch="False" />
+                <line number="17" hits="7" branch="False" />
+                <line number="18" hits="7" branch="False" />
+                <line number="19" hits="7" branch="False" />
+                <line number="78" hits="7" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="47" branch="False" />
+            <line number="13" hits="54" branch="False" />
+            <line number="33" hits="7" branch="False" />
+            <line number="34" hits="7" branch="False" />
+            <line number="35" hits="7" branch="False" />
+            <line number="36" hits="7" branch="False" />
+            <line number="37" hits="7" branch="False" />
+            <line number="38" hits="7" branch="False" />
+            <line number="39" hits="7" branch="False" />
+            <line number="40" hits="7" branch="False" />
+            <line number="41" hits="7" branch="False" />
+            <line number="42" hits="7" branch="False" />
+            <line number="43" hits="7" branch="False" />
+            <line number="45" hits="64" branch="False" />
+            <line number="46" hits="7" branch="False" />
+            <line number="48" hits="7" branch="False" />
+            <line number="50" hits="7" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="6" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="53" hits="7" branch="True" condition-coverage="100% (6/6)">
+              <conditions>
+                <condition number="6" type="jump" coverage="100%" />
+                <condition number="30" type="jump" coverage="100%" />
+                <condition number="59" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="54" hits="7" branch="False" />
+            <line number="55" hits="7" branch="False" />
+            <line number="58" hits="7" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="6" type="jump" coverage="100%" />
+                <condition number="35" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="59" hits="7" branch="False" />
+            <line number="60" hits="7" branch="False" />
+            <line number="63" hits="7" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="6" type="jump" coverage="100%" />
+                <condition number="30" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="64" hits="7" branch="False" />
+            <line number="65" hits="7" branch="False" />
+            <line number="69" hits="7" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="6" type="jump" coverage="100%" />
+                <condition number="35" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="70" hits="7" branch="False" />
+            <line number="71" hits="7" branch="False" />
+            <line number="74" hits="7" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="6" type="jump" coverage="100%" />
+                <condition number="30" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="75" hits="7" branch="False" />
+            <line number="76" hits="7" branch="False" />
+            <line number="80" hits="0" branch="False" />
+            <line number="81" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="12" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="82" hits="0" branch="False" />
+            <line number="83" hits="0" branch="False" />
+            <line number="84" hits="0" branch="False" />
+            <line number="85" hits="0" branch="False" />
+            <line number="86" hits="0" branch="False" />
+            <line number="16" hits="7" branch="False" />
+            <line number="17" hits="7" branch="False" />
+            <line number="18" hits="7" branch="False" />
+            <line number="19" hits="7" branch="False" />
+            <line number="78" hits="7" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler/&lt;ExecutarAsync&gt;d__11" filename="BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="7" branch="False" />
+                <line number="23" hits="7" branch="False" />
+                <line number="25" hits="7" branch="False" />
+                <line number="26" hits="7" branch="False" />
+                <line number="27" hits="7" branch="False" />
+                <line number="29" hits="7" branch="False" />
+                <line number="30" hits="7" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="22" hits="7" branch="False" />
+            <line number="23" hits="7" branch="False" />
+            <line number="25" hits="7" branch="False" />
+            <line number="26" hits="7" branch="False" />
+            <line number="27" hits="7" branch="False" />
+            <line number="29" hits="7" branch="False" />
+            <line number="30" hits="7" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs" line-rate="0.8887999999999999" branch-rate="0.25" complexity="8">
+          <methods>
+            <method name="get_Itens" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="16" branch="False" />
+              </lines>
+            </method>
+            <method name="MapEntity" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="5" branch="False" />
+              </lines>
+            </method>
+            <method name="MapItens" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="10" branch="False" />
+              </lines>
+            </method>
+            <method name="get_TotalDeItens" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="17" hits="3" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+            <method name="get_ValorTotal" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="18" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="4" branch="False" />
+                <line number="10" hits="4" branch="False" />
+                <line number="11" hits="4" branch="False" />
+                <line number="12" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="16" branch="False" />
+            <line number="15" hits="5" branch="False" />
+            <line number="16" hits="10" branch="False" />
+            <line number="17" hits="3" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="18" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="9" hits="4" branch="False" />
+            <line number="10" hits="4" branch="False" />
+            <line number="11" hits="4" branch="False" />
+            <line number="12" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemCommand" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs" line-rate="0.8" branch-rate="1" complexity="5">
+          <methods>
+            <method name="get_Produto" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="9" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Preco" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="9" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Quantidade" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="9" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Total" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="26" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="MapEntity" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="5" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="23" hits="9" branch="False" />
+            <line number="24" hits="9" branch="False" />
+            <line number="25" hits="9" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="28" hits="5" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoResult" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs" line-rate="0.8887999999999999" branch-rate="0.25" complexity="7">
+          <methods>
+            <method name="get_Numero" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Itens" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="6" branch="False" />
+              </lines>
+            </method>
+            <method name="get_TotalDeItens" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="16" hits="6" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+            <method name="get_ValorTotal" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="17" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+            <method name=".ctor" signature="(BackendChallenge.Pedidos.Domain.Entities.Pedido)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="2" branch="False" />
+                <line number="10" hits="2" branch="False" />
+                <line number="11" hits="2" branch="False" />
+                <line number="12" hits="4" branch="False" />
+                <line number="13" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="2" branch="False" />
+            <line number="15" hits="6" branch="False" />
+            <line number="16" hits="6" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="17" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="9" hits="2" branch="False" />
+            <line number="10" hits="2" branch="False" />
+            <line number="11" hits="2" branch="False" />
+            <line number="12" hits="4" branch="False" />
+            <line number="13" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs" line-rate="0.9" branch-rate="1" complexity="5">
+          <methods>
+            <method name="get_Produto" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="29" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Preco" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="30" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Quantidade" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="31" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Total" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String,System.Decimal,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="2" branch="False" />
+                <line number="23" hits="2" branch="False" />
+                <line number="24" hits="2" branch="False" />
+                <line number="25" hits="2" branch="False" />
+                <line number="26" hits="2" branch="False" />
+                <line number="27" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="29" hits="2" branch="False" />
+            <line number="30" hits="2" branch="False" />
+            <line number="31" hits="2" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="22" hits="2" branch="False" />
+            <line number="23" hits="2" branch="False" />
+            <line number="24" hits="2" branch="False" />
+            <line number="25" hits="2" branch="False" />
+            <line number="26" hits="2" branch="False" />
+            <line number="27" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.RemoverPedidoHandler" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/Remover/RemoverPedidoHandler.cs" line-rate="0.3846" branch-rate="0" complexity="4">
+          <methods>
+            <method name="Dispose" signature="(System.Boolean)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="27" hits="0" branch="False" />
+                <line number="28" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="12" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="34" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="2" branch="False" />
+                <line number="12" hits="2" branch="False" />
+                <line number="13" hits="2" branch="False" />
+                <line number="14" hits="2" branch="False" />
+                <line number="25" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="27" hits="0" branch="False" />
+            <line number="28" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="12" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="11" hits="2" branch="False" />
+            <line number="12" hits="2" branch="False" />
+            <line number="13" hits="2" branch="False" />
+            <line number="14" hits="2" branch="False" />
+            <line number="25" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.RemoverPedidoHandler/&lt;ExecutarAsync&gt;d__2" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/Remover/RemoverPedidoHandler.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="17" hits="2" branch="False" />
+                <line number="18" hits="2" branch="False" />
+                <line number="19" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="173" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="20" hits="1" branch="False" />
+                <line number="22" hits="1" branch="False" />
+                <line number="23" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="17" hits="2" branch="False" />
+            <line number="18" hits="2" branch="False" />
+            <line number="19" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="173" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="20" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
+            <line number="23" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.CriarPedidoHandler" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/Criar/CriarPedidoHandler.cs" line-rate="0.3846" branch-rate="0" complexity="4">
+          <methods>
+            <method name="Dispose" signature="(System.Boolean)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="12" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="1" branch="False" />
+                <line number="11" hits="1" branch="False" />
+                <line number="12" hits="1" branch="False" />
+                <line number="13" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="12" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="10" hits="1" branch="False" />
+            <line number="11" hits="1" branch="False" />
+            <line number="12" hits="1" branch="False" />
+            <line number="13" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.CriarPedidoHandler/&lt;ExecutarAsync&gt;d__2" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/Criar/CriarPedidoHandler.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+                <line number="19" hits="1" branch="False" />
+                <line number="21" hits="1" branch="False" />
+                <line number="22" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="21" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.AtualizarPedidoHandler" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/Atualizar/AtualizarPedidoHandler.cs" line-rate="0.3846" branch-rate="0" complexity="4">
+          <methods>
+            <method name="Dispose" signature="(System.Boolean)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="12" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Dispose" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="2" branch="False" />
+                <line number="13" hits="2" branch="False" />
+                <line number="14" hits="2" branch="False" />
+                <line number="15" hits="2" branch="False" />
+                <line number="31" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="12" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="12" hits="2" branch="False" />
+            <line number="13" hits="2" branch="False" />
+            <line number="14" hits="2" branch="False" />
+            <line number="15" hits="2" branch="False" />
+            <line number="31" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.AtualizarPedidoHandler/&lt;ExecutarAsync&gt;d__2" filename="BackendChallenge.Pedidos.Application/UseCases/Pedidos/Atualizar/AtualizarPedidoHandler.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="18" hits="2" branch="False" />
+                <line number="19" hits="2" branch="False" />
+                <line number="21" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="175" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="22" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+                <line number="26" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="2" branch="False" />
+            <line number="19" hits="2" branch="False" />
+            <line number="21" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="175" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="22" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="26" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Application.Exceptions.PedidoNaoEncontradoException" filename="BackendChallenge.Pedidos.Application/Exceptions/PedidoNaoEncontradoException.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="(System.String)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="2" branch="False" />
+                <line number="7" hits="2" branch="False" />
+                <line number="8" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="2" branch="False" />
+            <line number="7" hits="2" branch="False" />
+            <line number="8" hits="2" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="BackendChallenge.Pedidos.Domain" line-rate="0.9466" branch-rate="0.6666" complexity="34">
+      <classes>
+        <class name="BackendChallenge.Pedidos.Domain.Validations.ItemValidacoes" filename="BackendChallenge.Pedidos.Domain/Validations/ItemValidacoes.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="20" branch="False" />
+                <line number="8" hits="20" branch="False" />
+                <line number="9" hits="20" branch="False" />
+                <line number="10" hits="20" branch="False" />
+                <line number="11" hits="20" branch="False" />
+                <line number="13" hits="20" branch="False" />
+                <line number="14" hits="20" branch="False" />
+                <line number="15" hits="20" branch="False" />
+                <line number="17" hits="20" branch="False" />
+                <line number="18" hits="20" branch="False" />
+                <line number="19" hits="20" branch="False" />
+                <line number="20" hits="20" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="20" branch="False" />
+            <line number="8" hits="20" branch="False" />
+            <line number="9" hits="20" branch="False" />
+            <line number="10" hits="20" branch="False" />
+            <line number="11" hits="20" branch="False" />
+            <line number="13" hits="20" branch="False" />
+            <line number="14" hits="20" branch="False" />
+            <line number="15" hits="20" branch="False" />
+            <line number="17" hits="20" branch="False" />
+            <line number="18" hits="20" branch="False" />
+            <line number="19" hits="20" branch="False" />
+            <line number="20" hits="20" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Domain.Validations.PedidoValidacoes" filename="BackendChallenge.Pedidos.Domain/Validations/PedidoValidacoes.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="2" branch="False" />
+                <line number="9" hits="2" branch="False" />
+                <line number="10" hits="2" branch="False" />
+                <line number="11" hits="2" branch="False" />
+                <line number="12" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="2" branch="False" />
+            <line number="9" hits="2" branch="False" />
+            <line number="10" hits="2" branch="False" />
+            <line number="11" hits="2" branch="False" />
+            <line number="12" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Domain.Entities.Entidade" filename="BackendChallenge.Pedidos.Domain/Entities/Entidade.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="get_DataCriacao" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="55" branch="False" />
+              </lines>
+            </method>
+            <method name="get_DataAtualizacao" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name="Atualizar" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="3" branch="False" />
+                <line number="19" hits="3" branch="False" />
+                <line number="20" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="55" branch="False" />
+                <line number="7" hits="55" branch="False" />
+                <line number="8" hits="55" branch="False" />
+                <line number="9" hits="55" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="2" branch="False" />
+            <line number="11" hits="55" branch="False" />
+            <line number="12" hits="3" branch="False" />
+            <line number="18" hits="3" branch="False" />
+            <line number="19" hits="3" branch="False" />
+            <line number="20" hits="3" branch="False" />
+            <line number="6" hits="55" branch="False" />
+            <line number="7" hits="55" branch="False" />
+            <line number="8" hits="55" branch="False" />
+            <line number="9" hits="55" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Domain.Entities.Item" filename="BackendChallenge.Pedidos.Domain/Entities/Item.cs" line-rate="0.8181" branch-rate="1" complexity="10">
+          <methods>
+            <method name="get_Produto" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="61" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Preco" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="82" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Quantidade" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="82" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Total" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="69" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Pedido" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_IsValid" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="60" branch="False" />
+              </lines>
+            </method>
+            <method name="Validar" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="20" branch="False" />
+              </lines>
+            </method>
+            <method name="Atualizar" signature="(System.String,System.Decimal,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="26" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="False" />
+                <line number="7" hits="0" branch="False" />
+                <line number="9" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String,System.Decimal,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="34" branch="False" />
+                <line number="11" hits="34" branch="False" />
+                <line number="12" hits="34" branch="False" />
+                <line number="13" hits="34" branch="False" />
+                <line number="14" hits="34" branch="False" />
+                <line number="15" hits="34" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="61" branch="False" />
+            <line number="17" hits="82" branch="False" />
+            <line number="18" hits="82" branch="False" />
+            <line number="19" hits="69" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="22" hits="60" branch="False" />
+            <line number="23" hits="20" branch="False" />
+            <line number="26" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="6" hits="0" branch="False" />
+            <line number="7" hits="0" branch="False" />
+            <line number="9" hits="0" branch="False" />
+            <line number="10" hits="34" branch="False" />
+            <line number="11" hits="34" branch="False" />
+            <line number="12" hits="34" branch="False" />
+            <line number="13" hits="34" branch="False" />
+            <line number="14" hits="34" branch="False" />
+            <line number="15" hits="34" branch="False" />
+          </lines>
+        </class>
+        <class name="BackendChallenge.Pedidos.Domain.Entities.Pedido" filename="BackendChallenge.Pedidos.Domain/Entities/Pedido.cs" line-rate="1" branch-rate="0.6666" complexity="17">
+          <methods>
+            <method name="get_Itens" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="146" branch="False" />
+              </lines>
+            </method>
+            <method name="get_TotalDeItens" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="21" hits="96" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+            <method name="get_ValorTotal" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="22" hits="68" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+            <method name="AdicionarItem" signature="(BackendChallenge.Pedidos.Domain.Entities.Item)" line-rate="1" branch-rate="0.75" complexity="4">
+              <lines>
+                <line number="25" hits="18" branch="False" />
+                <line number="26" hits="18" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="27" hits="17" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="18" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="28" hits="18" branch="False" />
+              </lines>
+            </method>
+            <method name="RemoverItem" signature="(System.String)" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="29" hits="2" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="20" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+            <method name="Atualizar" signature="(System.Collections.Generic.List`1&lt;BackendChallenge.Pedidos.Domain.Entities.Item&gt;)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="32" hits="2" branch="False" />
+                <line number="33" hits="2" branch="False" />
+                <line number="34" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="19" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="35" hits="2" branch="False" />
+                <line number="36" hits="2" branch="False" />
+                <line number="37" hits="2" branch="False" />
+                <line number="38" hits="2" branch="False" />
+                <line number="39" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="get_IsValid" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="41" hits="6" branch="False" />
+              </lines>
+            </method>
+            <method name="Validar" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="42" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="16" branch="False" />
+                <line number="11" hits="16" branch="False" />
+                <line number="12" hits="16" branch="False" />
+                <line number="13" hits="16" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.Collections.Generic.ICollection`1&lt;BackendChallenge.Pedidos.Domain.Entities.Item&gt;)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="5" branch="False" />
+                <line number="16" hits="5" branch="False" />
+                <line number="17" hits="5" branch="False" />
+                <line number="18" hits="5" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="20" hits="146" branch="False" />
+            <line number="21" hits="96" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="22" hits="68" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="25" hits="18" branch="False" />
+            <line number="26" hits="18" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="27" hits="17" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="18" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="28" hits="18" branch="False" />
+            <line number="29" hits="2" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="20" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="32" hits="2" branch="False" />
+            <line number="33" hits="2" branch="False" />
+            <line number="34" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="19" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="35" hits="2" branch="False" />
+            <line number="36" hits="2" branch="False" />
+            <line number="37" hits="2" branch="False" />
+            <line number="38" hits="2" branch="False" />
+            <line number="39" hits="2" branch="False" />
+            <line number="41" hits="6" branch="False" />
+            <line number="42" hits="2" branch="False" />
+            <line number="10" hits="16" branch="False" />
+            <line number="11" hits="16" branch="False" />
+            <line number="12" hits="16" branch="False" />
+            <line number="13" hits="16" branch="False" />
+            <line number="15" hits="5" branch="False" />
+            <line number="16" hits="5" branch="False" />
+            <line number="17" hits="5" branch="False" />
+            <line number="18" hits="5" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

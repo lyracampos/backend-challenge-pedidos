@@ -1,0 +1,39 @@
+
+7BackendChallenge.Pedidos.Domain.Entities.Item.Validar()ë
+Ü/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs  ('"0*ù
+0ë
+Ü/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs- (Oïí
+ë
+Ü/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs- (A@
+%0:BackendChallenge.Pedidos.Domain.Validations.ItemValidacoes":BackendChallenge.Pedidos.Domain.Validations.ItemValidacoes¥
+±
+ë
+Ü/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs1 (?
+
+%1void"KBackendChallenge.Pedidos.Domain.Validations.ItemValidacoes.ItemValidacoes()*B
+@
+%0:BackendChallenge.Pedidos.Domain.Validations.ItemValidacoesÚ
+Ô
+ë
+Ü/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs- (P/
+%2)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*B
+@
+%0:BackendChallenge.Pedidos.Domain.Validations.ItemValidacoes*1/
+-BackendChallenge.Pedidos.Domain.Entities.Itemöó
+ë
+Ü/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs- (X
+
+%3bool"5FluentValidation.Results.ValidationResult.IsValid.get*1
+/
+%2)FluentValidation.Results.ValidationResult2IsValid.get"¢
+ë
+Ü/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs- (X
+
+
+%3bool*√
+1ë
+Ü/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.csY (Y"©
+ë
+Ü/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.csX (Y
+implicit returnB1/
+-BackendChallenge.Pedidos.Domain.Entities.Item

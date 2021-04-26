@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/BackendChallenge.Pedidos.Domain.csproj
+/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/BackendChallenge.Pedidos.Api.csproj
+/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/BackendChallenge.Pedidos.Infrastructure.csproj
+/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/BackendChallenge.Pedidos.Application.csproj
+
+
+Test projects
+---------------------------------------
+/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Tests/BackendChallenge.Pedidos.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

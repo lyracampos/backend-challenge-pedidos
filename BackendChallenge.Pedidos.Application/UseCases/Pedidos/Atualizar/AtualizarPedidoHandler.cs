@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using System.Linq;
+using System.Threading.Tasks;
 using BackendChallenge.Pedidos.Application.Exceptions;
 using BackendChallenge.Pedidos.Application.Repositories;
 
@@ -20,7 +21,7 @@ namespace BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar
             if (pedidoDb == null)
                 throw new PedidoNaoEncontradoException($"Pedido {id} não encontrado");
 
-            pedidoDb.Atualizar(command.MapEntity());
+            pedidoDb.Atualizar(command.MapEntity().Itens.ToList());
 
             await pedidoRepository.AtualizarAsync(pedidoDb);
 

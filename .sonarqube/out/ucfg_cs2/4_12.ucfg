@@ -1,0 +1,73 @@
+
+sBackendChallenge.Pedidos.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs (%"0*ƒ%
+0‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs '(2÷
+ô
+‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs (%:
+%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection×
+Ô
+‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs !(A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
+NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""Ÿ
+œ
+‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs" "(LA
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionŸ
+œ
+‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs# #(TA
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionŸ
+œ
+‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs$ $(PA
+%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionŸ
+œ
+‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs% %(HA
+%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionŸ
+œ
+‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs& &(NA
+%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"°Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionð
+í
+‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs' '(2A
+%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"áMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
+SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+""*
+""*
+1*¯
+1‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs(	 ((	"Ÿ
+‡
+}/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Startup.cs( ((	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB(&
+$BackendChallenge.Pedidos.Api.Startup

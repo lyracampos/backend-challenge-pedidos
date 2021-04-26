@@ -1,0 +1,16 @@
+ö
+/BackendChallenge.Pedidos.Domain.Entities.Pedido1BackendChallenge.Pedidos.Domain.Entities.EntidadeobjectD
+Pedido()8BackendChallenge.Pedidos.Domain.Entities.Pedido.Pedido()Ô
+]Pedido(System.Collections.Generic.ICollection<BackendChallenge.Pedidos.Domain.Entities.Item>)çBackendChallenge.Pedidos.Domain.Entities.Pedido.Pedido(System.Collections.Generic.ICollection<BackendChallenge.Pedidos.Domain.Entities.Item>)¨
+<AdicionarItem(BackendChallenge.Pedidos.Domain.Entities.Item)lBackendChallenge.Pedidos.Domain.Entities.Pedido.AdicionarItem(BackendChallenge.Pedidos.Domain.Entities.Item)Z
+RemoverItem(string)CBackendChallenge.Pedidos.Domain.Entities.Pedido.RemoverItem(string)®
+:Atualizar(BackendChallenge.Pedidos.Domain.Entities.Pedido)jBackendChallenge.Pedidos.Domain.Entities.Pedido.Atualizar(BackendChallenge.Pedidos.Domain.Entities.Pedido)F
+	Validar()9BackendChallenge.Pedidos.Domain.Entities.Pedido.Validar()F
+	Itens.get9BackendChallenge.Pedidos.Domain.Entities.Pedido.Itens.getF
+	Itens.set9BackendChallenge.Pedidos.Domain.Entities.Pedido.Itens.setT
+TotalDeItens.get@BackendChallenge.Pedidos.Domain.Entities.Pedido.TotalDeItens.getT
+TotalDeItens.set@BackendChallenge.Pedidos.Domain.Entities.Pedido.TotalDeItens.setP
+ValorTotal.get>BackendChallenge.Pedidos.Domain.Entities.Pedido.ValorTotal.getP
+ValorTotal.set>BackendChallenge.Pedidos.Domain.Entities.Pedido.ValorTotal.setJ
+IsValid.get;BackendChallenge.Pedidos.Domain.Entities.Pedido.IsValid.getJ
+IsValid.set;BackendChallenge.Pedidos.Domain.Entities.Pedido.IsValid.set

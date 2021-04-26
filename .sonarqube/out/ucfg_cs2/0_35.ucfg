@@ -1,0 +1,41 @@
+
+CBackendChallenge.Pedidos.Domain.Entities.Pedido.RemoverItem(string)“
+ˆ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Pedido.cs ("0*é
+0“
+ˆ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Pedido.cs (ÅÂ
+“
+ˆ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Pedido.cs (/
+%0)System.Collections.Generic.ICollection<T>"9BackendChallenge.Pedidos.Domain.Entities.Pedido.Itens.get*31
+/BackendChallenge.Pedidos.Domain.Entities.Pedido2	Itens.get*
+1
+2*Ý	
+2“
+ˆ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Pedido.cs (sÅÂ
+“
+ˆ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Pedido.cs (/
+%1)System.Collections.Generic.ICollection<T>"9BackendChallenge.Pedidos.Domain.Entities.Pedido.Itens.get*31
+/BackendChallenge.Pedidos.Domain.Entities.Pedido2	Itens.get¢
+Ÿ
+“
+ˆ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Pedido.cs (t3
+%2-BackendChallenge.Pedidos.Domain.Entities.Item"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*1
+/
+%1)System.Collections.Generic.ICollection<T>*
+""ÏÌ
+“
+ˆ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Pedido.cs (u
+
+%3bool"3System.Collections.Generic.ICollection<T>.Remove(T)*1
+/
+%0)System.Collections.Generic.ICollection<T>*5
+3
+%2-BackendChallenge.Pedidos.Domain.Entities.Item2	Remove(T)*
+1*Ç
+1“
+ˆ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Pedido.cs 	  (	"«
+“
+ˆ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Pedido.cs   (	
+implicit return:
+produtostringB31
+/BackendChallenge.Pedidos.Domain.Entities.Pedido

@@ -1,0 +1,7 @@
+∑
+$BackendChallenge.Pedidos.Api.Startupobjectù
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)_BackendChallenge.Pedidos.Api.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)≈
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)sBackendChallenge.Pedidos.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Ñ
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)íBackendChallenge.Pedidos.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)K
+Configuration.get6BackendChallenge.Pedidos.Api.Startup.Configuration.getK
+Configuration.set6BackendChallenge.Pedidos.Api.Startup.Configuration.set

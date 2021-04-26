@@ -1,0 +1,38 @@
+
+…BackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.AtualizarAsync(BackendChallenge.Pedidos.Domain.Entities.Pedido)©
+ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs! !(("0*Ì
+0©
+ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs# $(,ƒ
+€
+©
+ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs# #(;
+%05BackendChallenge.Pedidos.Infrastructure.PedidoContext"__id*Ž*‹G
+EBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository"@
+context5BackendChallenge.Pedidos.Infrastructure.PedidoContextÐÍ
+©
+ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs# #("G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*=
+;
+%05BackendChallenge.Pedidos.Infrastructure.PedidoContext*;
+9
+pedido/BackendChallenge.Pedidos.Domain.Entities.Pedido2Update<TEntity>(TEntity)ƒ
+€
+©
+ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs$ $(;
+%25BackendChallenge.Pedidos.Infrastructure.PedidoContext"__id*Ž*‹G
+EBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository"@
+context5BackendChallenge.Pedidos.Infrastructure.PedidoContext¶³
+©
+ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs$ $(,*
+%3$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*=
+;
+%25BackendChallenge.Pedidos.Infrastructure.PedidoContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)*
+1*ó
+1©
+ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs%	 %(	"Á
+©
+ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs% %(	
+implicit return:9
+pedido/BackendChallenge.Pedidos.Domain.Entities.PedidoBIG
+EBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository

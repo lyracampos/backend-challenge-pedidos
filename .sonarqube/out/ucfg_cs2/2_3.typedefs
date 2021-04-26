@@ -1,0 +1,6 @@
+è
+VBackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.AtualizarPedidoHandlerobject’
+[AtualizarPedidoHandler(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)²BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.AtualizarPedidoHandler.AtualizarPedidoHandler(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)Š
+WExecutarAsync(int, BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand)®BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.AtualizarPedidoHandler.ExecutarAsync(int, BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand)u
+Dispose(bool)dBackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.AtualizarPedidoHandler.Dispose(bool)m
+	Dispose()`BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.AtualizarPedidoHandler.Dispose()

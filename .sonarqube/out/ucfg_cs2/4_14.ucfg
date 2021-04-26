@@ -1,0 +1,75 @@
+
+°BackendChallenge.Pedidos.Api.Controllers.PedidoController.RemoverPedido(int, BackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.IRemoverPedidoHandler)ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs`) `(6"5*Æ
+0ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cso	 o(	*	
+1
+2
+3*Ë
+1ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csd e(!¨©
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csd d(/!
+%0System.Threading.Tasks.Task"fBackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.IRemoverPedidoHandler.ExecutarAsync(int)*`
+^
+handlerSBackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.IRemoverPedidoHandler*
+""2ExecutarAsync(int)øº
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cse e(!-
+%1'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase2
+NotFound()"—
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cse e("/
+-
+%1'Microsoft.AspNetCore.Mvc.NotFoundResult*ñ
+3ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csi i(*≤Ø
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csi  i(*
+%2string"System.Exception.Message.get*T
+R
+exLBackendChallenge.Pedidos.Application.Exceptions.PedidoNaoEncontradoException2Message.get·ﬁ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csi i(+3
+%3-Microsoft.AspNetCore.Mvc.NotFoundObjectResult"8Microsoft.AspNetCore.Mvc.ControllerBase.NotFound(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%2string2NotFound(object)"◊
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csi i(,5
+3
+%3-Microsoft.AspNetCore.Mvc.NotFoundObjectResult*ﬂ
+2ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csm m(1ˆÛ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csm' m(1
+%4string"System.Exception.Message.get*
+
+exSystem.Exception2Message.getÓÎ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csm m(2+
+%5%Microsoft.AspNetCore.Mvc.ObjectResult"?Microsoft.AspNetCore.Mvc.ControllerBase.StatusCode(int, object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*2Ù*
+
+%4string2StatusCode(int, object)"œ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.csm m(3-
++
+%5%Microsoft.AspNetCore.Mvc.ObjectResult*€
+4ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cso	 o(	"µ
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cso o(	
+implicit return*Í
+5ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs`l `(lø
+º
+ù
+í/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Api/Controllers/PedidoController.cs`) `(6
+%6"__entrypoint*
+""*
+0:	
+idint:^
+handlerSBackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.IRemoverPedidoHandlerB=;
+9BackendChallenge.Pedidos.Api.Controllers.PedidoController

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>BackendChallenge.Pedidos.Application</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>5d1798c3-7c9b-4049-bc04-0c07a3da6a77</ProjectGuid>
+  <FullPath>/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/BackendChallenge.Pedidos.Application.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/.sonarqube/out/2/FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/bin/Debug/net5.0/BackendChallenge.Pedidos.Application.dll.RoslynCA.json|/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/bin/Debug/net5.0/BackendChallenge.Pedidos.Application.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/.sonarqube/out/2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0</TargetFramework>
+</ProjectInfo>

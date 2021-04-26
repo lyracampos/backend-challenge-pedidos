@@ -1,0 +1,11 @@
+Å
+1BackendChallenge.Pedidos.Domain.Entities.EntidadeobjectJ
+
+Entidade()<BackendChallenge.Pedidos.Domain.Entities.Entidade.Entidade()L
+Atualizar()=BackendChallenge.Pedidos.Domain.Entities.Entidade.Atualizar()B
+Id.get8BackendChallenge.Pedidos.Domain.Entities.Entidade.Id.getB
+Id.set8BackendChallenge.Pedidos.Domain.Entities.Entidade.Id.setT
+DataCriacao.getABackendChallenge.Pedidos.Domain.Entities.Entidade.DataCriacao.getT
+DataCriacao.setABackendChallenge.Pedidos.Domain.Entities.Entidade.DataCriacao.set\
+DataAtualizacao.getEBackendChallenge.Pedidos.Domain.Entities.Entidade.DataAtualizacao.get\
+DataAtualizacao.setEBackendChallenge.Pedidos.Domain.Entities.Entidade.DataAtualizacao.set

@@ -1,0 +1,46 @@
+
+MBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemCommand.MapEntity()§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs ("0*‹
+0§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs# (FÑ
+Î
+§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs, (3
+%0string"MBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemCommand.Produto.get*EC
+ABackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemCommandÐ
+Í
+§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs5 (:
+%1decimal"KBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemCommand.Preco.get*EC
+ABackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemCommandÑ
+Î
+§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs< (F	
+%2int"PBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemCommand.Quantidade.get*EC
+ABackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemCommand‘Ž
+§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs# (G3
+%3-BackendChallenge.Pedidos.Domain.Entities.Item"-BackendChallenge.Pedidos.Domain.Entities.Itemè
+å
+§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs' (+
+
+%4void"HBackendChallenge.Pedidos.Domain.Entities.Item.Item(string, decimal, int)*5
+3
+%3-BackendChallenge.Pedidos.Domain.Entities.Item*
+
+%0string*
+
+%1decimal*
+	
+%2int"á
+§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.cs# (G5
+3
+%3-BackendChallenge.Pedidos.Domain.Entities.Item*ï
+1§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.csH (H"¿
+§
+œ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoCommand.csG (H
+implicit returnBEC
+ABackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemCommand
