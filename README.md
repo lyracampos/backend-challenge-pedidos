@@ -1,26 +1,25 @@
-## Introdução
+## introdução
+Api para processamento de pedido e controle de seus status. <br/>
+Api escrita em c# com .net5.0. Usei este case para colocar em prática padrões de clean architecture, clean code, solid, ddd, api restful.
 
-Api criada para gerenciar pedidos e seus possíveis status. <br/>
-Aplicação desenvolvida em .netcore 5.0 com c#. Aplicando padrões de desenvolvimento clean architecture, clean code, solid e DDD. Com testes unitários e integrados.
+## quick start
+### rodando api com docker
+a imagem está disponível [nesse](https://hub.docker.com/r/guilhermelyracampos/backendchallenge-pedidos "nesse") repositório do dockerhub.
 
 ### usando a api
-Para rodar a api em sua máquina, clone este repositório e em seguida rode os comandos abaixo no diretório onde o repositório foi clonado:
-
+clone este repositório e abra a solution no visual studio 2019, ou execute os comandos abaixo:
 ```
 cd BackendChallenge.Pedidos.Api
 dotnet run
 ```
-A aplicação irá rodar no endereço [http://localhost:5000/swagger](http://localhost:5000/swagger)
-
-[![](https://gui-primeiro-bucket.s3.us-east-2.amazonaws.com/swagger.png)](https://gui-primeiro-bucket.s3.us-east-2.amazonaws.com/swagger.png)
-
 ### executando testes
-Os testes unitários e integrados foram feitos com xunit e moq. <br />
-Para executar os testes via linha de comando, execute os passos abaixo na pasta do projeto:
-
+os testes unitários e integrados foram feitos com xunit e moq. para executar os testes rode script abaixo:
 ```
 cd BackendChallenge.Pedidos.Tests
 dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=Cobertura
 ```
-A cobertura de testes:<br/>
-[![](https://gui-primeiro-bucket.s3.us-east-2.amazonaws.com/testes.png)](https://gui-primeiro-bucket.s3.us-east-2.amazonaws.com/testes.png)
+[![testes](https://gui-primeiro-bucket.s3.us-east-2.amazonaws.com/testes1.png "testes")](https://gui-primeiro-bucket.s3.us-east-2.amazonaws.com/testes1.png "testes")
+
+### author
+[Guilherme Lyra](https://github.com/lyracampos "Guilherme Lyra")
+
