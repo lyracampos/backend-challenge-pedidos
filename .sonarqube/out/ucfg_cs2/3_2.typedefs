@@ -1,10 +1,0 @@
- 	
-5BackendChallenge.Pedidos.Infrastructure.PedidoContext'Microsoft.EntityFrameworkCore.DbContextobjectX
-PedidoContext()EBackendChallenge.Pedidos.Infrastructure.PedidoContext.PedidoContext()Â
-DOnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)zBackendChallenge.Pedidos.Infrastructure.PedidoContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)£
-tPedidoContext(Microsoft.EntityFrameworkCore.DbContextOptions<BackendChallenge.Pedidos.Infrastructure.PedidoContext>)ªBackendChallenge.Pedidos.Infrastructure.PedidoContext.PedidoContext(Microsoft.EntityFrameworkCore.DbContextOptions<BackendChallenge.Pedidos.Infrastructure.PedidoContext>)°
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)qBackendChallenge.Pedidos.Infrastructure.PedidoContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)P
-Pedidos.getABackendChallenge.Pedidos.Infrastructure.PedidoContext.Pedidos.getP
-Pedidos.setABackendChallenge.Pedidos.Infrastructure.PedidoContext.Pedidos.setL
-	Itens.get?BackendChallenge.Pedidos.Infrastructure.PedidoContext.Itens.getL
-	Itens.set?BackendChallenge.Pedidos.Infrastructure.PedidoContext.Itens.set

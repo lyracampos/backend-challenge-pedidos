@@ -1,6 +1,0 @@
-Ä
-RBackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.RemoverPedidoHandlerobjectŠ
-YRemoverPedidoHandler(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)¬BackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.RemoverPedidoHandler.RemoverPedidoHandler(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository){
-ExecutarAsync(int)eBackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.RemoverPedidoHandler.ExecutarAsync(int)q
-Dispose(bool)`BackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.RemoverPedidoHandler.Dispose(bool)i
-	Dispose()\BackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.RemoverPedidoHandler.Dispose()

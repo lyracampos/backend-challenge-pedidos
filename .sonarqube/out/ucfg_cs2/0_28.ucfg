@@ -1,41 +1,0 @@
-
-MBackendChallenge.Pedidos.Domain.Entities.Item.Atualizar(string, decimal, int)‘
-†/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs ("0*§
-
-0‘
-†/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs (#¢Ÿ
-‘
-†/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs (
-
-%0void"=BackendChallenge.Pedidos.Domain.Entities.Entidade.Atualizar()*1/
--BackendChallenge.Pedidos.Domain.Entities.Item2Atualizar()¨
-¥
-‘
-†/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs (
-%1string"9BackendChallenge.Pedidos.Domain.Entities.Item.Produto.set*1/
--BackendChallenge.Pedidos.Domain.Entities.Item*
-
-produtostringš
-—
-‘
-†/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs (
-%2decimal"7BackendChallenge.Pedidos.Domain.Entities.Item.Preco.set*1/
--BackendChallenge.Pedidos.Domain.Entities.Item*
-""›
-˜
-‘
-†/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs (#	
-%3int"<BackendChallenge.Pedidos.Domain.Entities.Item.Quantidade.set*1/
--BackendChallenge.Pedidos.Domain.Entities.Item*
-""*
-1*Ã
-1‘
-†/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs	 (	"©
-‘
-†/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Domain/Entities/Item.cs (	
-implicit return:
-produtostring:
-precodecimal:
-
-quantidadeintB1/
--BackendChallenge.Pedidos.Domain.Entities.Item

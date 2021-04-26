@@ -1,8 +1,0 @@
-«
-CBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommandobject^
-MapEntity()OBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand.MapEntity()\
-
-MapItens()NBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand.MapItens()f
-PedidoCommand()SBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand.PedidoCommand()Z
-	Itens.getMBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand.Itens.getZ
-	Itens.setMBackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand.Itens.set

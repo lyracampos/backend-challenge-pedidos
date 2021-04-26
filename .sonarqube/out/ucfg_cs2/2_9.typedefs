@@ -1,11 +1,0 @@
-¶
-@BackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResultobject…
- ItemResult(string, decimal, int)aBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.ItemResult(string, decimal, int)[
-Produto.getLBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Produto.get[
-Produto.setLBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Produto.setW
-	Preco.getJBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Preco.getW
-	Preco.setJBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Preco.seta
-Quantidade.getOBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Quantidade.geta
-Quantidade.setOBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Quantidade.setW
-	Total.getJBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Total.getW
-	Total.setJBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Total.set

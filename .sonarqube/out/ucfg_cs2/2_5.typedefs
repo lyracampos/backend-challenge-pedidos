@@ -1,20 +1,0 @@
-™
-UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandlerobject‹
-XStatusPedidoHandler(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)®BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.StatusPedidoHandler(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)‰
-WExecutarAsync(BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand)­BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.ExecutarAsync(BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand)Š
-RetornarStatusDoPedido()nBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.RetornarStatusDoPedido()~
-SePedidoInvalido()hBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.SePedidoInvalido()€
-SePedidoReprovado()iBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.SePedidoReprovado()~
-SePedidoAprovado()hBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.SePedidoAprovado()’
-SePedidoAprovadoValorMenor()rBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.SePedidoAprovadoValorMenor()œ
-!SePedidoAprovadoQuantidadeMenor()wBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.SePedidoAprovadoQuantidadeMenor()’
-SePedidoAprovadoValorMaior()rBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.SePedidoAprovadoValorMaior()œ
-!SePedidoAprovadoQuantidadeMaior()wBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.SePedidoAprovadoQuantidadeMaior()t
-Dispose(bool)cBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.Dispose(bool)l
-	Dispose()_BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.Dispose()n
-
-pedido.get`BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.pedido.getn
-
-pedido.set`BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.pedido.setp
-command.getaBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.command.getp
-command.setaBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.command.set

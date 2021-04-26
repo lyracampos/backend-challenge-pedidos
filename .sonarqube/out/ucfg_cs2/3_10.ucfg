@@ -1,62 +1,0 @@
-
-…BackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository.AdicionarAsync(BackendChallenge.Pedidos.Domain.Entities.Pedido)©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (("0*Ý
-0©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (0ƒ
-€
-©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (;
-%05BackendChallenge.Pedidos.Infrastructure.PedidoContext"__id*Ž*‹G
-EBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository"@
-context5BackendChallenge.Pedidos.Infrastructure.PedidoContextå
-â
-©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (%2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ABackendChallenge.Pedidos.Infrastructure.PedidoContext.Pedidos.get*=
-;
-%05BackendChallenge.Pedidos.Infrastructure.PedidoContextöó
-©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (6/
-%2)System.Threading.Tasks.ValueTask<TResult>"bMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddAsync(TEntity, System.Threading.CancellationToken)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*;
-9
-pedido/BackendChallenge.Pedidos.Domain.Entities.Pedido*
-""25AddAsync(TEntity, System.Threading.CancellationToken)ƒ
-€
-©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (;
-%35BackendChallenge.Pedidos.Infrastructure.PedidoContext"__id*Ž*‹G
-EBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository"@
-context5BackendChallenge.Pedidos.Infrastructure.PedidoContext¶³
-©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (0*
-%4$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*=
-;
-%35BackendChallenge.Pedidos.Infrastructure.PedidoContext*
-""24SaveChangesAsync(System.Threading.CancellationToken)*
-1
-2*¾
-1©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (,‚ÿ
-©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs" (,
-%5string"System.Exception.Message.get*
-
-exSystem.Exception2Message.get‚
-ÿ
-©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (-
-
-%6void"!System.Console.WriteLine(string?)*"
-System.Console*
-
-%5string*
-2*ó
-2©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs	 (	"Á
-©
-ž/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Infrastructure/Repositories/PedidoRepository.cs (	
-implicit return:9
-pedido/BackendChallenge.Pedidos.Domain.Entities.PedidoBIG
-EBackendChallenge.Pedidos.Infrastructure.Repositories.PedidoRepository

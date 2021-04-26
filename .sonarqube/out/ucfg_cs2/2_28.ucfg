@@ -1,91 +1,0 @@
-
-≠BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.ExecutarAsync(BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand)π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs. (;"0*¢)
-0π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs (_§
-°
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs ("N
-%0HBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand"aBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.command.set*YW
-UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler*U
-S
-commandHBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand»
-≈
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs  (0I
-%1CBackendChallenge.Pedidos.Application.Repositories.IPedidoRepository"__id*µ*≤W
-UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler"W
-pedidoRepositoryCBackendChallenge.Pedidos.Application.Repositories.IPedidoRepositoryˆ
-Û
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs= (K	
-%2int"SBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand.Pedido.get*U
-S
-commandHBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand≠™
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs  (L*
-%3$System.Threading.Tasks.Task<TResult>"TBackendChallenge.Pedidos.Application.Repositories.IPedidoRepository.BuscarAsync(int)*K
-I
-%1CBackendChallenge.Pedidos.Application.Repositories.IPedidoRepository*
-	
-%2int2BuscarAsync(int)ª
-∏
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs (L5
-%4/BackendChallenge.Pedidos.Domain.Entities.Pedido"`BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.pedido.set*YW
-UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler*
-""ö
-ó
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs" (:
-%5string[]"nBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler.RetornarStatusDoPedido()*YW
-UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandlerÙ
-Ò
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs (:
-verificarStatusstring[]"__id*
-
-%5string[]◊‘
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs (aM
-%6GBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResult"GBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResult˙
-˜
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs ()
-
-%7void"\BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResult.StatusPedidoResult()*O
-M
-%6GBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResultˆ
-Û
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs7 (E	
-%8int"SBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand.Pedido.get*U
-S
-commandHBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand¸
-˘
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs. (E	
-%9int"RBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResult.Pedido.set*O
-M
-%6GBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResult*
-	
-%8intî
-ë
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.csG (_
-%10string[]"RBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResult.Status.set*O
-M
-%6GBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResult*
-
-verificarStatusstring[]"ç
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs (bO
-M
-%6GBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoResult*ì
-1π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs	 (	"—
-π
-Æ/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Status/StatusPedido/StatusPedidoHandler.cs (	
-implicit return:S
-commandHBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommandBYW
-UBackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.StatusPedidoHandler

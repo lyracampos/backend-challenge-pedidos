@@ -1,6 +1,0 @@
-®
-NBackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.CriarPedidoHandlerobject‚
-WCriarPedidoHandler(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)¦BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.CriarPedidoHandler.CriarPedidoHandler(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)ø
-RExecutarAsync(BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand)¡BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.CriarPedidoHandler.ExecutarAsync(BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand)m
-Dispose(bool)\BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.CriarPedidoHandler.Dispose(bool)e
-	Dispose()XBackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.CriarPedidoHandler.Dispose()

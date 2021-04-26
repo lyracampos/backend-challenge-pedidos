@@ -1,7 +1,0 @@
-ˆ
-9BackendChallenge.Pedidos.Api.Controllers.PedidoController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÈ
-UPedidoController(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)èBackendChallenge.Pedidos.Api.Controllers.PedidoController.PedidoController(BackendChallenge.Pedidos.Application.Repositories.IPedidoRepository)Ç
-°CriarPedido(BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand, BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.ICriarPedidoHandler)€BackendChallenge.Pedidos.Api.Controllers.PedidoController.CriarPedido(BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand, BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.ICriarPedidoHandler)§
-≤AtualizarPedido(int, BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand, BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.IAtualizarPedidoHandler)ÏBackendChallenge.Pedidos.Api.Controllers.PedidoController.AtualizarPedido(int, BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand, BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.IAtualizarPedidoHandler)`
-BuscarPedido(int)KBackendChallenge.Pedidos.Api.Controllers.PedidoController.BuscarPedido(int)ç
-gRemoverPedido(int, BackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.IRemoverPedidoHandler)°BackendChallenge.Pedidos.Api.Controllers.PedidoController.RemoverPedido(int, BackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.IRemoverPedidoHandler)

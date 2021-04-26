@@ -1,21 +1,0 @@
-º
-
--BackendChallenge.Pedidos.Domain.Entities.Item1BackendChallenge.Pedidos.Domain.Entities.Entidadeobject>
-Item()4BackendChallenge.Pedidos.Domain.Entities.Item.Item()f
-Item(string, decimal, int)HBackendChallenge.Pedidos.Domain.Entities.Item.Item(string, decimal, int)D
-	Validar()7BackendChallenge.Pedidos.Domain.Entities.Item.Validar()p
-Atualizar(string, decimal, int)MBackendChallenge.Pedidos.Domain.Entities.Item.Atualizar(string, decimal, int)H
-Produto.get9BackendChallenge.Pedidos.Domain.Entities.Item.Produto.getH
-Produto.set9BackendChallenge.Pedidos.Domain.Entities.Item.Produto.setD
-	Preco.get7BackendChallenge.Pedidos.Domain.Entities.Item.Preco.getD
-	Preco.set7BackendChallenge.Pedidos.Domain.Entities.Item.Preco.setN
-Quantidade.get<BackendChallenge.Pedidos.Domain.Entities.Item.Quantidade.getN
-Quantidade.set<BackendChallenge.Pedidos.Domain.Entities.Item.Quantidade.setD
-	Total.get7BackendChallenge.Pedidos.Domain.Entities.Item.Total.getD
-	Total.set7BackendChallenge.Pedidos.Domain.Entities.Item.Total.setF
-
-Pedido.get8BackendChallenge.Pedidos.Domain.Entities.Item.Pedido.getF
-
-Pedido.set8BackendChallenge.Pedidos.Domain.Entities.Item.Pedido.setH
-IsValid.get9BackendChallenge.Pedidos.Domain.Entities.Item.IsValid.getH
-IsValid.set9BackendChallenge.Pedidos.Domain.Entities.Item.IsValid.set

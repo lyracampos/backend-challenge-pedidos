@@ -1,38 +1,0 @@
-
-aBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.ItemResult(string, decimal, int)¦
-›/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs ("1*±
-1¦
-›/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs	 (	*
-0*È	
-0¦
-›/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs (#ã
-à
-¦
-›/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs (
-%0string"LBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Produto.set*DB
-@BackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult*
-
-produtostringÕ
-Ò
-¦
-›/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs (
-%1decimal"JBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Preco.set*DB
-@BackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult*
-""Ö
-Ó
-¦
-›/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs (#	
-%2int"OBackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult.Quantidade.set*DB
-@BackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult*
-""*
-2*í
-2¦
-›/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs	 (	"¾
-¦
-›/Users/guilhermelyracampos/Documents/programacao/source/git/backend-challenge-pedidos/BackendChallenge.Pedidos.Application/UseCases/Pedidos/PedidoResult.cs (	
-implicit return:
-produtostring:
-precodecimal:
-
-quantidadeintBDB
-@BackendChallenge.Pedidos.Application.UseCases.Pedidos.ItemResult
