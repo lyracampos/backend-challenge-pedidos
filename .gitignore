@@ -1,7 +1,7 @@
 .vs
 /BackendChallenge.Pedidos.Api/bin/Debug/net5.0
 /BackendChallenge.Pedidos.Api/obj
-/BackendChallenge.Pedidos.Api/
+/BackendChallenge.Pedidos.Api/Properties
 
 /BackendChallenge.Pedidos.Application/bin/Debug/net5.0
 /BackendChallenge.Pedidos.Application/obj
