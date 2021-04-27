@@ -1,3 +1,6 @@
+using System;
+using System.IO;
+using System.Reflection;
 using BackendChallenge.Pedidos.Application.Repositories;
 using BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar;
 using BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar;
@@ -29,8 +32,24 @@ namespace BackendChallenge.Pedidos.Api
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "BackendChallenge.Pedidos.Api", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Title = "BackendChallenge.Pedidos",
+                    Version = "v1",
+                    Description = "Api para acompanhamento de pedidos.",
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Guilherme Lyra Campos",
+                        Url = new Uri("https://github.com/lyracampos")
+                    },
+                });
+                c.CustomSchemaIds(_ => _.FullName);
+
+                var xmlFile = $"{Assembly.GetEntryAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                c.IncludeXmlComments(xmlPath);
             });
+
             services.AddTransient<ICriarPedidoHandler, CriarPedidoHandler>();
             services.AddTransient<IAtualizarPedidoHandler, AtualizarPedidoHandler>();
             services.AddTransient<IRemoverPedidoHandler, RemoverPedidoHandler>();

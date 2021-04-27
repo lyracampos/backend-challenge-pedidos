@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendChallenge.Pedidos.Api</name>
+    </assembly>
+    <members>
+        <member name="M:BackendChallenge.Pedidos.Api.Controllers.PedidoController.CriarPedido(BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand,BackendChallenge.Pedidos.Application.UseCases.Pedidos.Criar.ICriarPedidoHandler)">
+            <summary>
+            criar um pedido
+            </summary>
+            <param name="command">payload do pedido</param>
+        </member>
+        <member name="M:BackendChallenge.Pedidos.Api.Controllers.PedidoController.AtualizarPedido(System.Int32,BackendChallenge.Pedidos.Application.UseCases.Pedidos.PedidoCommand,BackendChallenge.Pedidos.Application.UseCases.Pedidos.Atualizar.IAtualizarPedidoHandler)">
+            <summary>
+            atualizar pedido
+            </summary>
+            <param name="id">numero do pedido</param>
+            <param name="command">payload do pedido</param>
+        </member>
+        <member name="M:BackendChallenge.Pedidos.Api.Controllers.PedidoController.BuscarPedido(System.Int32)">
+            <summary>
+            buscar um pedudo
+            </summary>
+            <param name="id">numero do pedido</param>
+            <returns>pedido do banco de dados</returns>
+        </member>
+        <member name="M:BackendChallenge.Pedidos.Api.Controllers.PedidoController.RemoverPedido(System.Int32,BackendChallenge.Pedidos.Application.UseCases.Pedidos.Remover.IRemoverPedidoHandler)">
+            <summary>
+            remover pedido
+            </summary>
+            <param name="id">numero do pedido</param>
+        </member>
+        <member name="M:BackendChallenge.Pedidos.Api.Controllers.StatusController.Status(BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedidoCommand,BackendChallenge.Pedidos.Application.UseCases.Status.StatusPedido.IStatusPedidoHandler)">
+            <summary>
+            processa status do pedido
+            </summary>
+            <param name="command">playload das informações</param>
+            <returns>status do pedido</returns>
+        </member>
+    </members>
+</doc>
